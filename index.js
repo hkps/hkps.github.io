@@ -2,7 +2,7 @@
 
   "use strict";
 
-  alert("page under construction");
+  // alert("page under construction");
 
 })();
 
